@@ -1,3 +1,3 @@
-Location | Brisbane, Australia
+Location - Brisbane, Australia
 
-Contact | facade@riseup.net
+Contact - facade@riseup.net
