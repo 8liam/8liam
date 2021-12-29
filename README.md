@@ -1,5 +1,5 @@
 Location - Brisbane, Australia
 
-Education - 1st year IT (Computer Science) @ QUT
+Education - 2nd year IT (Computer Science) @ QUT
 
 
