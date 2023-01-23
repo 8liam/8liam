@@ -1,5 +1,3 @@
 Location - Brisbane, Australia
 
-Education - 2nd year IT (Computer Science) @ QUT
-
-
+Education - 3rd Year Information Technology, Majoring in Computer Science @ QUT
