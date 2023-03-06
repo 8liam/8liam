@@ -6,10 +6,10 @@ You can also connect with me on LinkedIn below.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liamgrant1903) 
 
 ## 👨‍🎓 Education:
-Bachelor of Information Technology @ QUT
+Bachelor of Information Technology @ QUT: Expected Graduation Q4 2023
 - Major in Computer Science
 - Minor in IoT and Mobile Technologies
-Expected Graduation Q4: 2023
+
 
 
 
