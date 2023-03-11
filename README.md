@@ -1,9 +1,6 @@
 ## 👤 About me:
 Hi there, I'm a 19 Year old Computer Science Student at QUT based in Brisbane, Australia with a passionate interest for website and app development using React. 
 I've always been into tech and how it can solve problems, so it was only natural that I'd end up in this field. Please read more below about my current Education and Tech Stack.
-You can also connect with me on LinkedIn below.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liamgrant1903) 
 
 ## 👨‍🎓 Education:
 Bachelor of Information Technology @ QUT: Expected Graduation Q4 2023
