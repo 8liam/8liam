@@ -1,5 +1,5 @@
 ## 👤 About me:
-Hi there, I'm a 19 Year old Computer Science Student at QUT based in Brisbane, Australia with a passionate interest for website and app development using React. 
+Hi there, I'm a 20 Year old Computer Science Student at QUT based in Brisbane, Australia with a passionate interest for website and app development using React. 
 I've always been into tech and how it can solve problems, so it was only natural that I'd end up in this field. Please read more below about my current Education and Tech Stack.
 
 ## 👨‍🎓 Education:
