@@ -1,5 +1,5 @@
 ## 👤 About me:
-Hi there, I'm a Computer Science Student at QUT based in Brisbane, Australia with a passionate interest for website and app development using React and React Native. 
+I'm a Computer Science Student at QUT based in Brisbane, Australia with a passionate interest for website and app development using React and React Native. 
 
 
 ## 👨‍🎓 Education:
