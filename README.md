@@ -31,5 +31,5 @@ Bachelor of Information Technology @ QUT: Expected Graduation Q4 2023
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8liam&theme=tokyonight)
 
 </div>
----
 
+---
