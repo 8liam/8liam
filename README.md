@@ -1,14 +1,13 @@
 ## 👤 About me:
 ### About me
-I'm a Computer Science Student at QUT based in Brisbane, Australia with a passionate interest for website and app development using React and React Native. 
+I'm a Software Developer based in Brisbane, Australia with a passionate interest for website and app development using technology of the future. 
 
 
 ## 👨‍🎓 Education:
 ### Education
-Bachelor of Information Technology @ QUT: Expected Graduation Q4 2023
+Bachelor of Information Technology @ QUT - Completed 2023.
 - Major in Computer Science
 - Minor in IoT and Mobile Technologies
-
 
 ## 🚀 Projects
 ### Featured Projects
