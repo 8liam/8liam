@@ -16,7 +16,7 @@
 
   <p><strong>FMLyrics:</strong> A solution to displaying lyrics of your currently playing song on spotify.</p>
   
-   - [Repository](https://github.com/8liam/FMLyrics)
+   - [Repository](https://github.com/8liam/FMLyrics-v3)
    - [View on Web](https://fmlyrics.vercel.app)
 
 <p><strong>Customdle:</strong> A custom wordle creator to send to friends and challenge each other.</p>
