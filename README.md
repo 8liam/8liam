@@ -38,7 +38,7 @@
 <h2>Find me On</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/liamgrant1903/)
-- [Personal Website](https://www.liamg.zip/)
+- [Personal Website](https://www.liamgrant.com/)
 
 <h2>My Tech Stack</h2>
 
