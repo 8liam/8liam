@@ -1,4 +1,6 @@
-<h1>About Me</h1>
+[![Image](https://i.imgur.com/3j8ofLl.png)](https://liamgrant.com)
+
+<h2>About Me</h2>
 
 <p>I am an aspiring Software Engineer located in Brisbane, Australia, demonstrating a fervent enthusiasm for website and application development utilizing cutting-edge technology.</p>
 
