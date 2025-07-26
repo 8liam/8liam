@@ -9,7 +9,6 @@
 	<li><strong>Front End:</strong> Next.js, React, Shopify Liquid, Remix, TypeScript, React Native, JavaScript, HTML, CSS, TailwindCSS, Threejs</li>
 	<li><strong>Back End:</strong> NodeJs, PostgreSQL, PHP, Python, C#, Java, MongoDB, MySQL</li>
   <li><strong>Infrastructure:</strong> AWS:EC2, Vercel, Supabase, Render</li>
-  <li><strong>Minor:</strong> IoT and Mobile Technologies</li>
   <li><strong>Developer Tools:</strong> Docker, Git, npm, Scrum Methodology</li>
 </ul>
 </details>
