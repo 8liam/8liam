@@ -1,16 +1,38 @@
 <a href="https://liamgrant.com/" target="_blank"><img width="1280" height="372" alt="readme-header" src="https://github.com/user-attachments/assets/2c7e20dc-2722-40a7-8aec-664bacdd0a37" /></alt>
 
 <h2>About</h2>
+<p>Currently an <b>Software Engineer</b> @ <b>Westpac</b></p>
 <details>
 <summary>💻 Tech Stack</summary>
 <br />
 
-<ul>
-	<li><strong>Front End:</strong> Next.js, React, Shopify Liquid, Remix, TypeScript, React Native, JavaScript, HTML, CSS, TailwindCSS, Threejs</li>
-	<li><strong>Back End:</strong> NodeJs, PostgreSQL, PHP, Python, C#, Java, MongoDB, MySQL</li>
-  <li><strong>Infrastructure:</strong> AWS:EC2, Vercel, Supabase, Render</li>
-  <li><strong>Developer Tools:</strong> Docker, Git, npm, Scrum Methodology</li>
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>Stack</th>
+      <th>Knowledge</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Frontend</td>
+      <td>React, Next.js, Remix, Typescript, React Native, Javascript, Tailwind</td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>Node, C#, Java, Typescript, Go, MySQL, PostgreSQL</td>
+    </tr>
+    <tr>
+      <td>Infra</td>
+      <td>AWS:EC2, Vercel, Supabase, Render, Convex</td>
+    </tr>
+    <tr>
+      <td>Devtools</td>
+      <td>Git, Docker, npm</td>
+    </tr>
+  </tbody>
+</table>
+
 </details>
 
 <details>
