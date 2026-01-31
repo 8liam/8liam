@@ -1,7 +1,7 @@
 <a href="https://liamgrant.com/" target="_blank"><img width="1280" height="372" alt="readme-header" src="https://github.com/user-attachments/assets/2c7e20dc-2722-40a7-8aec-664bacdd0a37" /></alt>
 
 <h2>About</h2>
-<p>Currently an <b>Software Engineer</b> @ <b>Westpac</b></p>
+<p>Currently a <b>Software Engineer</b> @ <b>Westpac</b></p>
 <details>
 <summary>💻 Tech Stack</summary>
 <br />
